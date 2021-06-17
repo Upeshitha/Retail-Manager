@@ -1,2 +1,2 @@
 # Retail-Manager
-This is the c# application.
+This is the c# application
