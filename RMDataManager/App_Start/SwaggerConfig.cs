@@ -4,7 +4,7 @@ using RMDataManager;
 using Swashbuckle.Application;
 using RMDataManager.App_Start;
 
-//[assembly: PreApplicationStartMethod(typeof(SwaggerConfig), "Register")]
+[assembly: PreApplicationStartMethod(typeof(SwaggerConfig), "Register")]
 
 namespace RMDataManager
 {
